@@ -1,0 +1,9 @@
+{
+  "require": {
+    "ext-mysqli": "*",
+    "ext-mbstring": "*",
+    "ext-curl": "*",
+    "itrack/anaf": "^3.0",
+    "ext-json": "*"
+  }
+}
